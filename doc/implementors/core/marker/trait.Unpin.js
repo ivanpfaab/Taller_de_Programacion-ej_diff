@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["ej2_diff"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.59.0/core/marker/trait.Unpin.html\" title=\"trait core::marker::Unpin\">Unpin</a> for <a class=\"struct\" href=\"ej2_diff/matrix/struct.Matrix.html\" title=\"struct ej2_diff::matrix::Matrix\">Matrix</a>","synthetic":true,"types":["ej2_diff::matrix::Matrix"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

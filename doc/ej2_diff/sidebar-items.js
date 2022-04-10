@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["matrix","Current module is responsible for handling of the lcs Matrix"],["read","Current module is responsible of the handbling of some the read methods"]]});

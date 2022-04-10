@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["read_file_lines","Reads the lines of a file given a path passed as parameter. The lines will be returned in a vector of strings."],["read_from_console","Reads the input from the console and parse it to a string. Returns the value read or error in case the read_line methods failed."]]});
